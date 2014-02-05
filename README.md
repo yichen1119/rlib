@@ -1,4 +1,4 @@
 rlib
 ====
 
-R Library for Quant II
+The R Library for Quant II for Yichen Chen, New York University
